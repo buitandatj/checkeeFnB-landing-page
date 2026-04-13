@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --background-ryan: #f9f9f9;
+}
+body {
+  background: "var(--background-ryan)";
+}
+.container {
+  max-width: 1140px;
+  width: 100%;
+  margin: auto;
+}
